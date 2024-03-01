@@ -1,0 +1,21 @@
+
+.responsiveTable table,.responsiveTable table td,.responsiveTable table th { border: 1px solid #8d8d8d; border-collapse: collapse; background: #ccc; } 
+.responsiveTable table td, .responsiveTable table th { padding: 10px; }
+.responsiveTable table td, .responsiveTable table th { text-align: left; } 
+.responsiveTable table td:not(:first-child), .responsiveTable table th:not(:first-child) { text-align: center; }
+
+
+/* responsive table only design css */
+.table-wrapper { border: 1px solid rgb(255 255 255 / 50%); border-radius: 20px; max-width: 100%; overflow: hidden;background: #000; }
+.table-tr { display: flex; align-items: center; justify-content: space-between; } 
+.table-th h3,.table-th { margin: 0; color: #fff; font-family: Samsung Sharp Sans; font-size: 16px; font-style: normal; font-weight: 700; line-height: normal; } 
+.table-th p { color: #808080; font-family: Samsung Sharp Sans; font-size: 14px; font-style: normal; font-weight: 500; line-height: normal; } 
+.table-data-item { padding: 15px; } 
+.table-data-item:not(:last-child) { border-bottom: 1px solid rgb(255 255 255 / 50%); } 
+.table-tr:not(:last-child) { padding-bottom: 10px; margin-bottom: 10px; border-bottom: 1px solid rgb(255 255 255 / 50%); } 
+.table-th h3 { margin-bottom: 8px; } 
+.table-td { color: #fff; font-family: Samsung Sharp Sans; font-size: 14px; font-style: normal; font-weight: 500; line-height: normal; } 
+.table-td h5 { margin: 0; color: #808080; font-family: Samsung Sharp Sans; font-size: 14px; font-style: normal; font-weight: 500; line-height: normal;line-height: 20px; } 
+.table-data-item:nth-of-type(odd) { background: rgb(255 255 255 / 10%); }
+.table-tr > div { width: 50%; padding: 7px; } 
+.table-td { text-align: right; line-height: 20px;}
