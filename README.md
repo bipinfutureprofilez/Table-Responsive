@@ -6,7 +6,7 @@ Add table.css for basic adjustable design
 
 &lt;link rel="stylesheet" href="css/table.css"&gt;
 
-&lt;code&gt;
+
 
 &lt;div class="responsiveTable" responsive-point="1024" &gt;
     &lt;table class="table" width="100%"&gt;
@@ -29,7 +29,7 @@ Add table.css for basic adjustable design
     &lt;/table&gt;
 &lt;/div&gt;
 
-&lt;/code&gt;
+
 
 Table Can not be responsive with below files. so please add below files in your HTML document.
 
